@@ -1,5 +1,12 @@
 import java.util.HashMap;
 
+/** 
+* @Description:
+* @Author: Urey Lou
+* @Date: 2024-09-19
+* @Param: 
+* @return: 
+*/
 public class neetcode_003 {
     public int[] twoSum(int[] nums, int target) {
         HashMap<Integer, Integer> prevMap = new HashMap<>();

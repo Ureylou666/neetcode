@@ -1,5 +1,12 @@
 import java.util.HashMap;
 
+/** 
+* @Description:
+* @Author: Urey Lou
+* @Date: 2024-09-19
+* @Param: 
+* @return: 
+*/
 public class neetcode_002 {
     public boolean isAnagram(String s, String t) {
         if (s.length() != t.length()) return false;

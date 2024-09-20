@@ -3,6 +3,13 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 
+/** 
+* @Description:
+* @Author: Urey Lou
+* @Date: 2024-09-19
+* @Param: 
+* @return: 
+*/
 public class neetcode_004 {
 
     public List<List<String>> groupAnagrams(String[] strs) {
